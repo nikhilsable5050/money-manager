@@ -4,6 +4,7 @@ import com.moneymanager.api.dto.AuthDTO;
 import com.moneymanager.api.dto.ProfileDTO;
 import com.moneymanager.api.entity.ProfileEntity;
 import com.moneymanager.api.repository.ProfileRepository;
+import com.moneymanager.api.util.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.authentication.AuthenticationManager;
