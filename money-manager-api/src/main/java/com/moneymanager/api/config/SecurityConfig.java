@@ -1,5 +1,6 @@
 package com.moneymanager.api.config;
 
+import com.moneymanager.api.security.JwtRequestFilter;
 import com.moneymanager.api.service.AppUserDetailsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
