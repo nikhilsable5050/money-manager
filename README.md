@@ -1,3 +1,4 @@
+update UI
 # Money Manager
 
 A modern and secure personal finance management backend built using Java Spring Boot. The project is designed to help users efficiently manage income, expenses, and financial records through scalable REST APIs.
